@@ -23,14 +23,4 @@ Let's collaborate and create something awesome together! Drop me a message and l
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-name: With worldmap
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.stargazers.worldmap.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_stargazers: yes
-  plugin_stargazers_charts: no
-  plugin_stargazers_worldmap: yes
-  plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-  plugin_stargazers_worldmap_sample: 200
+![Image Description]([https://example.com/image.jpg](https://github.com/lowlighter/metrics/blob/d8628373b19cfc28b951a562fbea643b505bf71d/metrics.plugin.stargazers.worldmap.svg)https://github.com/lowlighter/metrics/blob/d8628373b19cfc28b951a562fbea643b505bf71d/metrics.plugin.stargazers.worldmap.svg)
