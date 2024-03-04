@@ -1,4 +1,6 @@
-👋 Hey there! I'm Reham, a versatile **software and applications developer** with a creative flair for design! 💻✨
+# 👋 Hey there!
+
+I'm **Reham**, a versatile **software and applications developer** with a creative flair for design! 💻✨
 
 As a developer, I'm passionate about crafting clean, efficient code that brings ideas to life. Whether it's building robust software solutions or designing intuitive user interfaces, I thrive on turning concepts into reality.
 
