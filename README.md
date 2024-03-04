@@ -14,9 +14,9 @@ Let's collaborate and create something awesome together! Drop me a message and l
 
 ## 🏅 Badges
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourName-blue)](https://github.com/YourName)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/YourName)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://www.yourwebsite.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YourName-blue)](https://[github.com](https://github.com/RehamCodes)/RehamCodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)]([https://www.linkedin.com](https://www.linkedin.com/in/reham-al-khamiasi-756b2322a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)/in/RehamAlkhamiasi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)]([https://www.yourwebsite.com](https://rehams-portfolio-yly3.vercel.app/))
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
