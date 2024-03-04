@@ -21,3 +21,16 @@ Let's collaborate and create something awesome together! Drop me a message and l
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+name: With worldmap
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.stargazers.worldmap.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_stargazers: yes
+  plugin_stargazers_charts: no
+  plugin_stargazers_worldmap: yes
+  plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+  plugin_stargazers_worldmap_sample: 200
