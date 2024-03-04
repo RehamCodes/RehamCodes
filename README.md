@@ -12,7 +12,7 @@ Let's collaborate and create something awesome together! Drop me a message and l
 
 
 
-## 🏅 Badges
+
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
